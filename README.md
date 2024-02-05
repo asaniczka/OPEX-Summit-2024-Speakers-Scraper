@@ -19,7 +19,7 @@ The scraper is designed to collect data such as user names, contact information,
 #### Data Organization: 
 - The extracted data is structured into a CSV format with clear and concise column headers for easy understanding and navigation. The data is organized in a logical and user-friendly manner.
 #### Quality Assurance: 
--Thorough checks are conducted to ensure data integrity and accuracy. Any errors or inconsistencies in the data are rectified promptly.
+- Thorough checks are conducted to ensure data integrity and accuracy. Any errors or inconsistencies in the data are rectified promptly.
 
 ### How to Use
 
