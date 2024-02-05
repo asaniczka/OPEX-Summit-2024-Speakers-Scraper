@@ -27,5 +27,5 @@ To use this web scraper, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Install the required libraries by running `pip install -r requirements.txt.`
-3. Execute the `speaker_scraper.py` file using Python.
+3. Execute the `scrape_speakers.py` file using Python.
 4. The web scraper will collect the data and save it as a CSV file named OPEX_speakers.csv in the project's data folder.
